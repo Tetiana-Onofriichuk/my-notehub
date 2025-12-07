@@ -19,8 +19,7 @@ The project features a clean user interface, secure authentication, and a custom
 
 📱 Responsive UI built with modern frontend tools
 
-🛠️ Tech Stack
-Frontend
+🛠️ Tech Stack (Frontend)
 
 HTML
 
@@ -30,16 +29,10 @@ React
 
 Next.js
 
-Backend
 
-Node.js
 
-Express
+🔗 Backend : https://github.com/Tetiana-Onofriichuk/nodejs-hw/tree/request-reset-email/src
 
-MongoDB
+The project uses a custom backend built with Node.js, Express, and MongoDB, located in a separate repository:
 
-Authentication
-
-JWT (JSON Web Tokens)
-
-HTTP-only cookies
+👉 [додай посил
