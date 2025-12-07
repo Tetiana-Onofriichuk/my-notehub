@@ -1,26 +1,45 @@
-📝 Notehub — Personal Notes Application
+📝 Notehub – Personal Notes Manager
 
-Notehub is a full-stack application that allows users to create, edit, and manage personal notes in a simple and intuitive interface.
-The project features secure user authentication and a clean, user-friendly notes editor, powered by a custom backend.
+Notehub is a full-stack application that allows users to create, edit, and manage personal notes.
+The project features a clean user interface, secure authentication, and a custom backend built with Node.js.
 
-✨ Key Features
+✨ Features
 
-User authentication (sign up, login, logout)
+➕ Create new notes
 
-Create, edit, and delete notes
+✏️ Edit existing notes
 
-Rich text / formatted notes support (if applicable)
+🗑️ Delete notes
 
-Personal dashboard with all user notes
+📚 View and organize all personal notes in a dashboard
 
-Persistent data storage via custom API
+🔐 User authentication (registration, login, logout)
 
-Responsive and clean UI
+💾 Persistent data storage through a custom API
+
+📱 Responsive UI built with modern frontend tools
 
 🛠️ Tech Stack
+Frontend
 
-Frontend: React, CSS Modules
+HTML
 
-Backend: Node.js, Express, MongoDB
+CSS
 
-Auth: JWT & HTTP-only cookies
+React
+
+Next.js
+
+Backend
+
+Node.js
+
+Express
+
+MongoDB
+
+Authentication
+
+JWT (JSON Web Tokens)
+
+HTTP-only cookies
